@@ -1,2 +1,3 @@
 # cv-excersize-react-odin-project
-a small cv excersize in props and state on react from The Odin Project
+
+A small CV exercise in props and state on React from The Odin Project
