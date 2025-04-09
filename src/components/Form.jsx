@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import Cv from './cv';
+import Cv from './Cv';
 export default function Form() {
   const [cv, setCv] = useState({});
   const [input, setInput] = useState({
